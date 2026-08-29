@@ -2,7 +2,7 @@
 
 Software engineer building runtimes, developer tools, and systems.
 
-I focus on the layers beneath user-facing applications: execution engines, developer tooling, local-first platforms, APIs, and automation. Currently I’m building Neuron — a programmable execution platform for turning systems and services into running software.
+I focus on the layers beneath user-facing applications: execution engines, developer tooling, local-first platforms, APIs, and automation. Currently I’m building Neuron, a programmable execution platform for turning systems and services into running software.
 
 ## What I'm building
 
@@ -10,7 +10,7 @@ I focus on the layers beneath user-facing applications: execution engines, devel
 A runtime and developer platform for turning systems and services into executable software. The goal is to make complex systems easier to define, run, inspect, and operate without forcing teams to build the underlying execution infrastructure.
 
 Work in progress:
-- N.O.R.E. — Neuron runtime and execution engine
+- N.O.R.E. (Neuron runtime and execution engine)
 - system and project resolution
 - execution and instance management
 - real-time event and log streaming
@@ -51,8 +51,8 @@ I start from the system, not the framework:
 
 ## Find me
 - GitHub: https://github.com/Muhammad-Jay  
-- LinkedIn: https://www.linkedin.com/in/muhammad-awaisu-ahmed/  
-- Email: (your.email@example.com) — optional; replace with preferred contact
+- LinkedIn: https://www.linkedin.com/in/muhammed-awaisu-ahmed/
+- Email: muhammed.awaisu.ahmed@gmail.com
 
 Building systems, learning by building, and making complicated software easier to reason about.
 
